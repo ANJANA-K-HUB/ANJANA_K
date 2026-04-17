@@ -106,7 +106,7 @@ Experienced in **financial data analysis, risk modeling, NLP, and computer visio
 # 📄 Resume
 
 <p align="center">
-<a href="https://github.com/ANJANA-K-HUB/ANJANA-K-HUB/blob/main/Anjana_K_CV(1).pdf">
+<a href=<"https://github.com/ANJANA-K-HUB/ANJANA_K_Profile/blob/main/Anjana_K_CV%20(1).pdf">
 <img src="https://img.shields.io/badge/Download%20My%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 </p>
